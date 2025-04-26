@@ -14,18 +14,25 @@ Seja bem-vindo(a) ao meu perfil no GitHub! Aqui compartilho projetos, ideias e u
 
 ## 🛠️ Tecnologias & Habilidades
 
-<div align="center">
-  
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" /></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" /></a>
-  <a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff" /></a>
-  <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=fff" /></a>
-  <a href="https://www.adobe.com/creativecloud.html"><img src="https://img.shields.io/badge/Adobe_CC-DA1F26?style=for-the-badge&logo=adobe-creative-cloud&logoColor=fff" /></a>
-  
-</div>
+### 🧩 Frontend
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+### 🔧 Backend
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)](https://laravel.com/)
+
+### 📱 Mobile
+
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+
+### 🎨 Design
+
+[![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=fff)](https://www.figma.com/)
 
 ---
 
@@ -35,7 +42,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub! Aqui compartilho projetos, ideias e u
 Aplicativo mobile desenvolvido em parceria com Uriel Caetano, focado na gamificação da academia. Permite acompanhamento de treinos, desafios entre usuarios e gerenciamento de planos conforme a necessidade.
 Tecnologias: React Native · JavaScript
 
-###📋 **[Gerenciamento de Clientes](https://github.com/DiegoAndreAfonso/Gerenciamento-de-clientes)**
+### 📋 **[Gerenciamento de Clientes](https://github.com/DiegoAndreAfonso/Gerenciamento-de-clientes)**
 Sistema web simples para gerenciamento de clientes, com funcionalidades de cadastro, listagem e edição. Ideal para pequenas empresas que buscam organizar suas informações de forma prática.
 Tecnologias: HTML · CSS · JavaScript
 
